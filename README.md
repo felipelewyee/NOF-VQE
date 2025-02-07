@@ -17,9 +17,9 @@ In particular, the following notebooks compute the energy of the corresponding N
 
 ## Authors
 
-- Juan Felipe Huan Lew-Yee
+- Ph.D. Juan Felipe Huan Lew-Yee (felipe.lew.yee@dipc.org)
   - Donostia International Physics Center (DIPC)
-- Mario Piris
+- Prof. Mario Piris (mario.piris@ehu.es)
   - Donostia International Physics Center (DIPC)
   - Euskal Herriko Unibertsitatea (UPV/EHU)
   - Basque Foundation for Science (Ikerbasque)
