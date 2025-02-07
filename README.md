@@ -15,7 +15,7 @@ In particular, the following notebooks compute the energy of the corresponding N
 - GU-VQE
 - HF-VQE
 
-The performance of the algorithms on a IBM Fez with a quantum processor **IBM Heron R2** (optimization level 3 and resilience level 1, run on May 5th, 2025) is the following
+The performance of the algorithms on a IBM Fez with a quantum processor **IBM Heron R2** (optimization level 3 and resilience level 1, 1000 shots, run on May 5th, 2025) is the following
 
 # <img src="https://github.com/felipelewyee/NOF-VQE/blob/main/H2-IBM-Fez-1000.png" height=300>
 
