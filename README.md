@@ -15,11 +15,13 @@ In particular, the following notebooks compute the energy of the corresponding N
 - GU-VQE
 - HF-VQE
 
-The performance of the algorithms on a IBM Fez with a quantum processor IBM Heron R2 (optimization level 3 and resilience level 1, run on May 5th, 2025) is the following
+The performance of the algorithms on a IBM Fez with a quantum processor **IBM Heron R2** (optimization level 3 and resilience level 1, run on May 5th, 2025) is the following
 
 # <img src="https://github.com/felipelewyee/NOF-VQE/blob/main/H2-IBM-Fez-1000.png" height=300>
 
-For this system, PNOF4 provides the most accurate results, although the resuts might depends on the system. As a general rule of thumb, PNOF3-VQE, PNOF4-VQE and BBAC3-VQE provides good results.
+For this system, PNOF4 provides the most accurate results, although the resuts might depends on the system.
+
+As a rule of thumb, PNOF4-VQE and BBAC3-VQE (and somtimes PNOF3-VQE and BBC2-VQE) provides good results.
 
 These notebooks are partially based on this: https://pennylane.ai/qml/demos/tutorial_vqe
 
