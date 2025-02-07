@@ -23,7 +23,7 @@ For this system, PNOF4 provides the most accurate results, although the resuts m
 
 As a rule of thumb, PNOF4-VQE and BBAC3-VQE (and somtimes PNOF3-VQE and BBC2-VQE) provides good results.
 
-These notebooks are partially based on this: https://pennylane.ai/qml/demos/tutorial_vqe
+These notebooks are partially based on: https://pennylane.ai/qml/demos/tutorial_vqe
 
 ## Authors
 
