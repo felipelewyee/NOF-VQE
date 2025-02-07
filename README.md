@@ -5,15 +5,19 @@
 
 # <img src="https://github.com/felipelewyee/NOF-VQE/blob/main/NOF-VQE.png" height=300>
 
-This repository contains minimal working examples of the Natural Orbital Functional Variational Quantum Eigensolver (NOF-VQE) for computing the energy of $H_2$, corresponding to the work in [DOI:]. These examples can easily be extended to other systems and ansatz.
+This repository contains minimal working examples of the Natural Orbital Functional Variational Quantum Eigensolver (NOF-VQE) that requires only measurements of the 1RDM, hence, the execution on the quantum computer scales as $N^2$. The examples computing the energy of $H_2$, and can be easily extended to other systems and ansatz.
 
-In particular, the following notebooks compute the energy of the corresponding NOF at the exact wavefunction:
+In particular, the following notebooks compute the energy of the corresponding NOF, then, they minimize with respect to $E_{NOF}$
 - PNOF4-VQE
 - PNOF3-VQE
 - BBAC3-VQE
 - BBC2-VQE
 - GU-VQE
 - HF-VQE
+
+For this system, PNOF4 provides the most accurate results, although the resuts might depends on the system. As a general rule of thumb, PNOF3-VQE, PNOF4-VQE and BBAC3-VQE provides good results.
+
+These notebooks are partially based on this: https://pennylane.ai/qml/demos/tutorial_vqe
 
 ## Authors
 
