@@ -10,7 +10,11 @@ This is repository contains minimal working examples of the Natural Orbital Func
 ## Authors
 
 - Juan Felipe Huan Lew-Yee
+  - Donostia International Physics Center (DIPC)
 - Mario Piris
+  - Donostia International Physics Center (DIPC)
+  - Euskal Herriko Unibertsitatea (UPV/EHU)
+  - Basque Foundation for Science (Ikerbasque)
 
 ## Acknowldgments
 
