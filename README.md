@@ -5,7 +5,7 @@
 
 # <img src="https://github.com/felipelewyee/NOF-VQE/blob/main/NOF-VQE.png" height=150>
 
-This is repository contains minimal working examples of the Natural Orbital Functional Variational Quantum Eigensolver (NOF-VQE), corresponding to the work in [DOI:]
+This is repository contains minimal working examples of the Natural Orbital Functional Variational Quantum Eigensolver (NOF-VQE), corresponding to the work in [DOI:] The notebooks contains simple implementations for computing the energy of $H_2$ that can be and can be easily adapted to other systems and ansatz.
 
 ## Authors
 
