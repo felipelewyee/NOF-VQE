@@ -3,7 +3,7 @@
 | **Article** | [![doi](https://img.shields.io/badge/DOI-10.1021/acs.jctc.4c01734-darkgreen)](https://doi.org/10.1021/acs.jctc.4c01734) |
 | ------------ | ---------------------------------------------------------------------------------------------- |
 
-This repository contains minimal working examples of the **Natural Orbital Functional Variational Quantum Eigensolver (NOF-VQE)** that requires only measurements of the 1RDM, hence, the execution on the quantum computer scales as $N^2$. The examples computes the energy of $H_2$, and can be easily extended to other systems and ansatz.
+This repository contains straightforward examples of the **Natural Orbital Functional Variational Quantum Eigensolver (NOF-VQE)** that requires only measurements of the 1RDM, hence, the execution on the quantum computer scales as $N^2$. The examples computes the energy of $H_2$, and can be easily extended to other systems and ansatz.
 
 In particular, the following notebooks compute the energy of the corresponding NOF, then, they minimize with respect to $E_\text{NOF}$
 - PNOF4-VQE
