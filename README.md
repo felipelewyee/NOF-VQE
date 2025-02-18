@@ -1,6 +1,6 @@
 # NOF-VQE
 
-| **Citation** | [![DOI](XXXX)](XXXX) |
+| **Article** | [![doi](https://img.shields.io/badge/DOI-10.1021/acs.jctc.4c01734-green)](https://doi.org/10.1021/acs.jctc.4c01734) |
 | ------------ | ---------------------------------------------------------------------------------------------- |
 
 # <img src="https://github.com/felipelewyee/NOF-VQE/blob/main/NOF-VQE.png" height=300>
